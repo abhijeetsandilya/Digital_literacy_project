@@ -5,7 +5,7 @@
 ## Student Details 
 - Name : ABHIJEET SANDILYA
 - Registration number: 25BHI10060
-- CSE 1rst year
+- CSE 1st year
 
 ## 📌 Project Overview
 This project focuses on building a **Digital Literacy Portfolio** to develop essential skills required in today’s digital world. It covers creating a professional online presence, understanding digital tools, maintaining proper communication, and ensuring cyber safety.  
